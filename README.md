@@ -91,8 +91,6 @@ pip install -r requirements.txt
 
 For further customization or troubleshooting, refer to the code comments in each Python file. If you have any questions or need additional support, feel free to contact the project maintainers.
 
-```
-
 ### Instructions:
 
 1. **Create a `README.md` File**:
