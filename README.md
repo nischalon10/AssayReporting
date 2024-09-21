@@ -86,18 +86,3 @@ pip install -r requirements.txt
    ```bash
    pip install -r requirements.txt
    ```
-
-## Additional Information
-
-For further customization or troubleshooting, refer to the code comments in each Python file. If you have any questions or need additional support, feel free to contact the project maintainers.
-
-### Instructions:
-
-1. **Create a `README.md` File**:
-   - Save the above content into a file named `README.md` in your project directory.
-
-2. **Update Repository URL** (if applicable):
-   - Replace `<repository_url>` in the clone command with your actual repository URL if sharing with others.
-
-3. **Additional Instructions**:
-   - Modify any sections to better fit your project’s structure or additional dependencies.
